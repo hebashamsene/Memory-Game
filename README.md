@@ -25,7 +25,7 @@ A simple **Memory Game** built using HTML, CSS, and JavaScript.
 
 ## 📂 Project Structure
 
-```text
+
 Memory-Game/
 │
 ├── Audio/
@@ -34,7 +34,7 @@ Memory-Game/
 ├── style.css
 ├── javaScript.js
 └── README.md
-```
+
 
 ## 🚀 How to Play
 
@@ -50,9 +50,12 @@ Memory-Game/
 
 This project was created to practice **JavaScript, DOM manipulation, event handling, arrays, random shuffling, and working with HTML elements and classes**.
 
+Project Preview
+![Screenshot 1](./screenShots/screenShot1.png)
+![Screenshot 2](./screenShots/screenShot2.png)
+![Screenshot 3](./screenShots/screenShot3.png)
+
 ## 👩‍💻 Author
 
 **Heba Shamsene**
 
-```
-```
