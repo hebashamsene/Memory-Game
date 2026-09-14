@@ -53,7 +53,7 @@ This project was created to practice **JavaScript, DOM manipulation, event handl
 Project Preview
 ![Screenshot 1](./screenShots/screenShot1.png)
 ![Screenshot 2](./screenShots/screenShot2.png)
-![Screenshot 3](./screenShots/screenShot3.png)
+![Screenshot 3](./screenShots/scrrenShot3.png)
 
 ## 👩‍💻 Author
 
